@@ -1,0 +1,308 @@
+﻿  Account.cpp
+C:\Users\user\source\repos\Battleship\Battleship\board.h(12,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\board.h(13,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(14,11): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(13,11): error C2374: 'ARRAY_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(11): message : see declaration of 'ARRAY_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(14,11): error C2374: 'PASSWORD_WIDTH': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(12): message : see declaration of 'PASSWORD_WIDTH'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(15,11): error C2374: 'ROWS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(13): message : see declaration of 'ROWS'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(16,11): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(17,11): error C2374: 'CARRIER_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(15): message : see declaration of 'CARRIER_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(18,11): error C2374: 'BATTLESHIP_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(16): message : see declaration of 'BATTLESHIP_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(19,11): error C2374: 'SUBMARINE_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(17): message : see declaration of 'SUBMARINE_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(20,11): error C2374: 'DESTROYER_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(18): message : see declaration of 'DESTROYER_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(21,11): error C2374: 'PATROLBOAT_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(19): message : see declaration of 'PATROLBOAT_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(24,1): error C2011: 'UserAcct': 'struct' type redefinition
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(37,6): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(142,38): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(142,77): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(181,6): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(196,6): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(202,24): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(207,41): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(209,43): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(299,45): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(301,47): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(311,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(312,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(313,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(314,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(315,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(316,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(321,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(323,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(324,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(325,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(326,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(334,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(335,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(336,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(337,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(338,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(339,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,39): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,8): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(352,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,39): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,8): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(353,48): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,39): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,8): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,49): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,49): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,49): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(354,49): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(355,33): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(356,33): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(357,33): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(363,40): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(365,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(366,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(367,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(368,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(369,34): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(383,45): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(385,47): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(401,48): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(409,45): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(411,47): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(427,43): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(429,45): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(449,43): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(451,45): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(459,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(460,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(461,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(462,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(463,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(464,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(469,30): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(471,30): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(472,30): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(473,30): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(474,30): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(482,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(483,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(484,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(485,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(486,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(487,32): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,37): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,6): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,46): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,46): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,46): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(500,46): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(501,37): error C2027: use of undefined type 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(501,6): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\Account.cpp(501,46): fatal error C1003: error count exceeds 100; stopping compilation
+  board.cpp
+C:\Users\user\source\repos\Battleship\Battleship\board.h(12,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\board.h(13,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(14,11): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(13,11): error C2374: 'ARRAY_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(11): message : see declaration of 'ARRAY_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(14,1): error C2374: 'PASSWORD_WIDTH': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(12): message : see declaration of 'PASSWORD_WIDTH'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(15,1): error C2374: 'ROWS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(13): message : see declaration of 'ROWS'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(16,1): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(17,1): error C2374: 'CARRIER_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(15): message : see declaration of 'CARRIER_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(18,1): error C2374: 'BATTLESHIP_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(16): message : see declaration of 'BATTLESHIP_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(19,1): error C2374: 'SUBMARINE_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(17): message : see declaration of 'SUBMARINE_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(20,1): error C2374: 'DESTROYER_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(18): message : see declaration of 'DESTROYER_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(21,1): error C2374: 'PATROLBOAT_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(19): message : see declaration of 'PATROLBOAT_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(846,1): error C2144: syntax error: 'bool' should be preceded by ';'
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(1635,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(1661,15): error C3861: 'getPass': identifier not found
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(1687,17): error C3861: 'getPass': identifier not found
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(2192,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(2222,15): error C3861: 'getPass': identifier not found
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(2248,17): error C3861: 'getPass': identifier not found
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(2320,16): error C3861: 'getPass': identifier not found
+C:\Users\user\source\repos\Battleship\Battleship\board.cpp(2347,18): error C3861: 'getPass': identifier not found
+  code.cpp
+C:\Users\user\source\repos\Battleship\Battleship\board.h(12,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\board.h(13,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(14,11): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(13,11): error C2374: 'ARRAY_SIZE': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(11): message : see declaration of 'ARRAY_SIZE'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(16,1): error C2011: 'UserAcct': 'struct' type redefinition
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(21): message : see declaration of 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(29,11): error C2079: 'player' uses undefined struct 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(37,11): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(38,11): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(39,11): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(40,11): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(41,11): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(42,6): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(43,12): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(45,12): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(45,35): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(45,61): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(45,78): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(48,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(49,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(50,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(51,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(52,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(53,23): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,33): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,3): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(61,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,33): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,3): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(62,43): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,33): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,3): error C2672: 'getline': no matching overloaded function found
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,44): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(82): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,44): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(76): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,44): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(70): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(63,44): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\string(27): message : see declaration of 'std::getline'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(64,27): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(65,27): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(66,27): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(71,34): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(73,28): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(74,28): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(75,28): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(76,28): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(77,28): error C2109: subscript requires array or pointer type
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(114,54): error C2660: 'onePlayerGame': function does not take 4 arguments
+C:\Users\user\source\repos\Battleship\Battleship\board.h(12,6): message : see declaration of 'onePlayerGame'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(117,54): error C2660: 'twoPlayerGame': function does not take 4 arguments
+C:\Users\user\source\repos\Battleship\Battleship\board.h(13,6): message : see declaration of 'twoPlayerGame'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(120,56): error C2664: 'void accountSettings(std::fstream &,UserAcct [],char &,int &)': cannot convert argument 2 from 'int' to 'UserAcct []'
+C:\Users\user\source\repos\Battleship\Battleship\code.cpp(120,31): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(34,6): message : see declaration of 'accountSettings'
+  Functions.cpp
+C:\Users\user\source\repos\Battleship\Battleship\board.h(12,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\board.h(13,64): error C2061: syntax error: identifier 'UserAcct'
+C:\Users\user\source\repos\Battleship\Battleship\Account.h(14,11): error C2374: 'COLS': redefinition; multiple initialization
+C:\Users\user\source\repos\Battleship\Battleship\board.h(10): message : see declaration of 'COLS'
+  Generating Code...
